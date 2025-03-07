@@ -18,11 +18,14 @@ Ensure you have the following installed on your system:
   (Tkinter is included by default in most Python installations.)
 
 ## Installation
-1. Clone the repository or download the script
-   git clone https://github.com/yourusername/AdvancedPacketSniffer.git
-   cd AdvancedPacketSniffer
+1. Clone the repository or download the script:
 
-2. Run the script:
+   git clone https://github.com/ItqaAkhlaq/Packet_sniffer.git
+   
+2. cd Packet_sniffer
+
+3. Run the script:
+   
    python3 sniffer.py
 
 
